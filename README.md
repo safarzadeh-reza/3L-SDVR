@@ -533,9 +533,9 @@ We welcome contributions to improve the 3L-SDVR project! Here's how you can help
 ### Contribution Guidelines
 
 1. **Fork the Repository**
-   ```bash
-   git fork https://github.com/safarzadeh-reza/3L-SDVR.git
-   ```
+   - Visit [https://github.com/safarzadeh-reza/3L-SDVR](https://github.com/safarzadeh-reza/3L-SDVR)
+   - Click the "Fork" button in the top-right corner
+   - Or use GitHub CLI: `gh repo fork safarzadeh-reza/3L-SDVR`
 
 2. **Create a Feature Branch**
    ```bash
@@ -697,6 +697,6 @@ This work addresses real-world logistics challenges faced by:
 
 If you find this project useful, please consider giving it a ⭐!
 
-[Back to Top](#-3l-sdvrp-three-layer-split-delivery-vehicle-routing-problem-with-3d-container-loading)
+[Back to Top](#3l-sdvrp-three-layer-split-delivery-vehicle-routing-problem-with-3d-container-loading)
 
 </div>
